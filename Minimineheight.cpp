@@ -2,7 +2,8 @@ class Solution {
     public:
       int getMinDiff(vector<int> &arr, int k) {
           // code here
-        int n=arr.size();
+
+          int n=arr.size();
         if(n==1) return 0;
         sort(arr.begin(),arr.end());
         int result=arr[n-1]-arr[0];
