@@ -7,6 +7,6 @@ class Solution {
             if(arr[i]<arr[0])
             return arr[i];
         }
-        return -1;  //If above condition not satisfied then return -1 
+        return -1;  
     }
 } 
