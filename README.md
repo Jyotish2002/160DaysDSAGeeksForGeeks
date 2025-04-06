@@ -25,17 +25,17 @@
 
 | 🔢 Day | 📌 Problem Description                         | 📂 File Name                                     |
 |-------:|------------------------------------------------|--------------------------------------------------|
-| 001    | Second Largest Number                          | [Day01_SecondLargestNumber.cpp](Day01_SecondLargestNumber.cpp) |
-| 002    | Push Zero To End                               | [Day02_PushZeroToEnd.cpp](Day02_PushZeroToEnd.cpp) |
-| 003    | Reverse Array                                  | [Day03_ReverseArray.cpp](Day03_ReverseArray.cpp) |
-| 004    | Rotate an Array                                | [Day04_RotateAnArray.cpp](Day04_RotateAnArray.cpp) |
-| 005    | Next Permutation                               | [Day05_NextPermutation.cpp](Day05_NextPermutation.cpp) |
-| 006    | Find Majority Element (Moore's Voting Algo)    | [Day06_FindMajority.cpp](Day06_FindMajority.cpp) |
-| 007    | Stock Buy and Sell                             | [Day07_StockBuyAndSell.cpp](Day07_StockBuyAndSell.cpp) |
-| 008    | Stock Buy and Sell (Max One Transaction)       | [Day08_StockBuyAndSellMaxOne.cpp](Day08_StockBuyAndSellMaxOne.cpp) |
-| 009    | Minimize Height                                | [Day09_MinimizeHeight.cpp](Day09_MinimizeHeight.cpp) |
-| 010    | Kadane's Algorithm                             | [Day10_KadanesAlgo.cpp](Day10_KadanesAlgo.cpp) |
-| 011    | Maximum Product Subarray                       | [Day11_MaximumProductOfSubarray.cpp](Day11_MaximumProductOfSubarray.cpp) |
+| 01    | Second Largest Number                          | [Day01_SecondLargestNumber.cpp](Day01_SecondLargestNumber.cpp) |
+| 02    | Push Zero To End                               | [Day02_PushZeroToEnd.cpp](Day02_PushZeroToEnd.cpp) |
+| 03    | Reverse Array                                  | [Day03_ReverseArray.cpp](Day03_ReverseArray.cpp) |
+| 04    | Rotate an Array                                | [Day04_RotateAnArray.cpp](Day04_RotateAnArray.cpp) |
+| 05    | Next Permutation                               | [Day05_NextPermutation.cpp](Day05_NextPermutation.cpp) |
+| 06    | Find Majority Element (Moore's Voting Algo)    | [Day06_FindMajority.cpp](Day06_FindMajority.cpp) |
+| 07    | Stock Buy and Sell                             | [Day07_StockBuyAndSell.cpp](Day07_StockBuyAndSell.cpp) |
+| 08    | Stock Buy and Sell (Max One Transaction)       | [Day08_StockBuyAndSellMaxOne.cpp](Day08_StockBuyAndSellMaxOne.cpp) |
+| 09    | Minimize Height                                | [Day09_MinimizeHeight.cpp](Day09_MinimizeHeight.cpp) |
+| 10    | Kadane's Algorithm                             | [Day10_KadanesAlgo.cpp](Day10_KadanesAlgo.cpp) |
+| 11    | Maximum Product Subarray                       | [Day11_MaximumProductOfSubarray.cpp](Day11_MaximumProductOfSubarray.cpp) |
 
 > ✅ **Progress:** 11 / 160 Days Completed  
 > 🧗‍♂️ **Keep Going! You're doing amazing!**
