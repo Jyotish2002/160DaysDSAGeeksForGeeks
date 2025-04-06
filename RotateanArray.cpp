@@ -6,7 +6,7 @@ class Solution {
           // code here
           int n=arr.size();
           
-          d%=n; //Checking here about the d elements
+          d%=n; 
           reverse(arr.begin(),arr.begin()+d);
           
           reverse(arr.begin()+d,arr.end());
