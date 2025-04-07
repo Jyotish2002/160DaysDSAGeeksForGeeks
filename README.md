@@ -36,7 +36,7 @@
 | 09    | Minimize Height                                | [Day09_MinimizeHeight.cpp](Day09_MinimizeHeight.cpp) |
 | 10    | Kadane's Algorithm                             | [Day10_KadanesAlgo.cpp](Day10_KadanesAlgo.cpp) |
 | 11    | Maximum Product Subarray                       | [Day11_MaximumProductOfSubarray.cpp](Day11_MaximumProductOfSubarray.cpp) |
-| 12    | Maximum Circular SubArray Sum                  | [Day12_MaxCircularSubarraySum.cpp](Day12_MaxCircularSubarraySum.cpp) |
+| 12    | Maximum Circular SubArray Sum                  | [Day12_Maximum CircularSubarraySum.cpp](Day12_MaxCicularSubarraySum.cpp) |
 
 > ✅ **Progress:** 12 / 160 Days Completed  
 > 🧗‍♂️ **Keep Going! You're doing amazing!**
