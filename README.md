@@ -39,7 +39,7 @@
 | 12    | Maximum Circular SubArray Sum                  | [Day12_MaximumCircularSubarraySum.cpp](Day12_MaxCicularSubarraySum.cpp) |
 | 13    | Smallest Missing Number                        | [Day13_SmallestMissingNumber.cpp](Day13_SmallestMissingNumber.cpp) |
 
-> ✅ **Progress:** 12 / 160 Days Completed  
+> ✅ **Progress:** 13 / 160 Days Completed  
 > 🧗‍♂️ **Keep Going! You're doing amazing!**
 
 ---
