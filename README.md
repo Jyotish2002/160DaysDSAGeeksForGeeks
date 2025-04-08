@@ -37,7 +37,7 @@
 | 10    | Kadane's Algorithm                             | [Day10_KadanesAlgo.cpp](Day10_KadanesAlgo.cpp) |
 | 11    | Maximum Product Subarray                       | [Day11_MaximumProductOfSubarray.cpp](Day11_MaximumProductOfSubarray.cpp) |
 | 12    | Maximum Circular SubArray Sum                  | [Day12_MaximumCircularSubarraySum.cpp](Day12_MaxCicularSubarraySum.cpp) |
-| 13    | Smallest Missing Number                        | [Day12_SmallestMissingNumber.cpp](Day13_SmallestMissingNumber.cpp) |
+| 13    | Smallest Missing Number                        | [Day13_SmallestMissingNumber.cpp](Day13_SmallestMissingNumber.cpp) |
 
 > ✅ **Progress:** 12 / 160 Days Completed  
 > 🧗‍♂️ **Keep Going! You're doing amazing!**
