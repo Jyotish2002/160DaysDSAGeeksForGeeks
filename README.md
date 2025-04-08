@@ -1,27 +1,27 @@
-<h1 align="center" style="color: #ff00cc;">🔥 160 Days of Code: GFG Challenge 🚀</h1>
+<h1 align="center" style="color: #ff00cc;">🌟🔥 160 Days of Code: GFG Challenge 🚀💻</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" alt="Code GIF" />
 </p>
 
 <p align="center">
-  <b>💻 Consistency + Logic + Code = Mastery 💯</b><br/>
-  <i>Welcome to my journey of solving 160 DSA problems in 160 days!</i><br/>
-  <b>Powered by <span style="color: #00ffcc;">C++</span> | Fueled by <span style="color: #ffff00;">Passion</span> 💙</b>
+  <b style="font-size: 20px;">💻 Consistency + Logic + Code = Mastery 💯</b><br/>
+  <i style="color: #aaa;">Welcome to my journey of solving <b>160 DSA problems</b> in 160 days!</i><br/>
+  <b>⚙️ Powered by <span style="color: #00ffcc;">C++</span> | ❤️ Fueled by <span style="color: #ffff00;">Passion</span></b>
 </p>
 
 ---
 
-## 🌈 Challenge Overview
+## 🌈✨ Challenge Overview
 
-🎯 **Challenge:** 160 Days of Coding by [GeeksforGeeks](https://www.geeksforgeeks.org)  
-🧠 **Goal:** Solve 1+ DSA problem every day  
-🛠️ **Language:** C++  
-📆 **Start Date:** 28th Feb 2025
+- 🎯 **Challenge:** 160 Days of Coding by [GeeksforGeeks](https://www.geeksforgeeks.org)  
+- 🧠 **Goal:** Solve 1+ DSA problem every day  
+- 🛠️ **Language:** C++  
+- 📆 **Start Date:** 28th Feb 2025
 
 ---
 
-## 📅 Daily Log: Problems Solved So Far
+## 📅📘 Daily Log: Problems Solved So Far
 
 | 🔢 Day | 📌 Problem Description                         | 📂 File Name                                     |
 |-------:|------------------------------------------------|--------------------------------------------------|
@@ -39,40 +39,39 @@
 | 12    | Maximum Circular SubArray Sum                  | [Day12_MaximumCircularSubarraySum.cpp](Day12_MaxCicularSubarraySum.cpp) |
 | 13    | Smallest Missing Number                        | [Day13_SmallestMissingNumber.cpp](Day13_SmallestMissingNumber.cpp) |
 
-> ✅ **Progress:** 13 / 160 Days Completed  
-> 🧗‍♂️ **Keep Going! You're doing amazing!**
+> ✅ **Progress:** <span style="color: #00ff00;"><b>13 / 160 Days Completed</b></span>  
+> 🧗‍♂️ **Keep Going, You're Crushing It! 🔥💪**
 
 ---
 
-## 🎯 Goals of This Challenge
+## 🎯📌 Challenge Goals
 
-- Master DSA fundamentals  
-- Build a strong coding habit  
-- Prepare for internships and placements  
-- Think logically and break down problems  
-- Stay consistent and motivated! 💡
-
----
-
-## ⚙️ How It Works
-
-Each day:
-1. 🧠 Choose a DSA problem from GFG
-2. 💻 Solve it in C++
-3. 📁 Push the code with the format `DayXX_ProblemTitle.cpp`
-4. 📝 Track progress in this README
+✨ To **master DSA fundamentals**  
+🧠 Build a strong **coding habit**  
+🎓 Prepare for **placements & internships**  
+🧩 Strengthen **problem-solving & logic**  
+⚡ Stay **consistent & motivated**!
 
 ---
 
-## 🌟 Connect with Me
+## ⚙️📋 How It Works
 
+Each day I:
+1. 🧠 Pick a DSA problem from **GeeksforGeeks**
+2. 💻 Solve it using **C++**
+3. 📁 Save the file as `DayXX_ProblemTitle.cpp`
+4. 📝 Log the entry in this `README.md`
+
+---
+
+## 🌐💬 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jyotish-yadav-16130621a/)
-- 🧠 [Portfolio](https://jyotishyadav.netlify.app/)
-- ✉️ [Email](jyotishyadavcse@gmail.com)
+- 🌐 [Portfolio](https://jyotishyadav.netlify.app/)
+- 📧 [Email](mailto:jyotishyadavcse@gmail.com)
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Keep+Coding...;Keep+Growing...;160+Days+Challenge+On+Fire+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Keep+Coding...;Keep+Growing...;160+Days+Challenge+On+Fire+🔥🔥" />
 </p>
