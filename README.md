@@ -38,8 +38,13 @@
 | 11    | Maximum Product Subarray                       | [Day11_MaximumProductOfSubarray.cpp](Day11_MaximumProductOfSubarray.cpp) |
 | 12    | Maximum Circular SubArray Sum                  | [Day12_MaximumCircularSubarraySum.cpp](Day12_MaxCicularSubarraySum.cpp) |
 | 13    | Smallest Missing Number                        | [Day13_SmallestMissingNumber.cpp](Day13_SmallestMissingNumber.cpp) |
+| 14    | Implement Atoi                                 | [Day14_ImplementAtoi.cpp](Day14_ImplementAtoi.cpp) |
+| 15    | Add Binary Strings                             | [Day15_AddBinaryStrings.cpp](Day15_AddBinaryStrings.cpp) |
+| 16    | Anagram                                        | [Day16_Anagram.cpp](Day16_Anagram.cpp) |
+| 17    | Non Repeating Character                        | [Day17_NonRepeatingCharacter.cpp](Day17_NonRepeatingCharacter.cpp) |
+| 18    | Search Algorithm(KMP-Algorithm)                | [Day18_SearchAlgorith(KMP-Algorith).cpp](Day18_SearchAlgorith(KMP-Algorith).cpp) |
 
-> ✅ **Progress:** <span style="color: #00ff00;"><b>13 / 160 Days Completed</b></span>  
+> ✅ **Progress:** <span style="color: #00ff00;"><b>18 / 160 Days Completed</b></span>  
 > 🧗‍♂️ **Keep Going, You're Crushing It! 🔥💪**
 
 ---
