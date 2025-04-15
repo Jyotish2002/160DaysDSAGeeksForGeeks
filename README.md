@@ -43,6 +43,7 @@
 | 16    | Anagram                                        | [Day16_Anagram.cpp](Day16_Anagram.cpp) |
 | 17    | Non Repeating Character                        | [Day17_NonRepeatingCharacter.cpp](Day17_NonRepeatingCharacter.cpp) |
 | 18    | Search Algorithm(KMP-Algorithm)                | [Day18_SearchAlgorith(KMP-Algorith).cpp](Day18_SearchAlgorith(KMP-Algorith).cpp) |
+| 19    | Min Char To Add Palindrome                     | [Day19_MinCharToAddForPalindrome.cpp](Day19_MinCharToAddForPalindrome.cpp) |
 
 > ✅ **Progress:** <span style="color: #00ff00;"><b>18 / 160 Days Completed</b></span>  
 > 🧗‍♂️ **Keep Going, You're Crushing It! 🔥💪**
