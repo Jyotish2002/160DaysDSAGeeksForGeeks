@@ -6,6 +6,7 @@ class Solution {
           
           while(mid<=high){
               switch(arr[mid]){
+                  
                   case 0:
                   swap(arr[mid++],arr[low++]);
                   break;
