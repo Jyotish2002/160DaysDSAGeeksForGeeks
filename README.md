@@ -47,6 +47,8 @@
 | 20    | String Rotation of Each other                  | [Day20_StringsRotationsOfEachOther.cpp](Day20_StringsRotationsOfEachOther.cpp) |
 | 21    | Sorting 0s,1s,2s                               | [Day21_Sorting0s,1s,2s.cpp](Day21_Sorting0s,1s,2s.cpp) |
 | 22    | Find H-Index                                   | [Day22_FindH-Index.cpp](Day22_FindH-Index.cpp) |
+| 23    | Count Inverse                                  | [Day23_CountInverse.cpp](Day23_CountInverse.cpp) |
+
 
 > ✅ **Progress:** <span style="color: #00ff00;"><b>22 / 160 Days Completed</b></span>  
 > 🧗‍♂️ **Keep Going, You're Crushing It! 🔥💪**
