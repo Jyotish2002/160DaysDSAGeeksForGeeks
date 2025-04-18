@@ -50,7 +50,7 @@
 | 23    | Count Inverse                                  | [Day23_CountInverse.cpp](Day23_CountInverse.cpp) |
 
 
-> ✅ **Progress:** <span style="color: #00ff00;"><b>22 / 160 Days Completed</b></span>  
+> ✅ **Progress:** <span style="color: #00ff00;"><b>23 / 160 Days Completed</b></span>  
 > 🧗‍♂️ **Keep Going, You're Crushing It! 🔥💪**
 
 ---
