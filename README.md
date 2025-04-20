@@ -51,7 +51,7 @@
 | 24    | OverLapping Intervals                          | [Day24_OverLappingIntervals.cpp](Day24_OverLappingIntervals.cpp) |
 | 25    | Insert Interval                                | [Day25_InsertInterval.cpp](Day25_InsertInterval.cpp) |
 
-> ✅ **Progress:** <span style="color: #00ff00;"><b>24 / 160 Days Completed</b></span>  
+> ✅ **Progress:** <span style="color: #00ff00;"><b>25 / 160 Days Completed</b></span>  
 > 🧗‍♂️ **Keep Going, You're Crushing It! 🔥💪**
 
 ---
