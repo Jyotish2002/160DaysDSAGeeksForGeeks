@@ -49,7 +49,7 @@
 | 22    | Find H-Index                                   | [Day22_FindH-Index.cpp](Day22_FindH-Index.cpp) |
 | 23    | Count Inverse                                  | [Day23_CountInverse.cpp](Day23_CountInverse.cpp) |
 | 24    | OverLapping Intervals                          | [Day24_OverLappingIntervals.cpp](Day24_OverLappingIntervals.cpp) |
-
+| 25    | Insert Interval                                | [Day25_InsertInterval.cpp](Day25_InsertInterval.cpp) |
 
 > ✅ **Progress:** <span style="color: #00ff00;"><b>24 / 160 Days Completed</b></span>  
 > 🧗‍♂️ **Keep Going, You're Crushing It! 🔥💪**
