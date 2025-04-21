@@ -50,6 +50,7 @@
 | 23    | Count Inverse                                  | [Day23_CountInverse.cpp](Day23_CountInverse.cpp) |
 | 24    | OverLapping Intervals                          | [Day24_OverLappingIntervals.cpp](Day24_OverLappingIntervals.cpp) |
 | 25    | Insert Interval                                | [Day25_InsertInterval.cpp](Day25_InsertInterval.cpp) |
+| 26    | Non-Overlapping Interval                       | [Day26_Non-OverlappingIntervals.cpp](Day26_Non-OverlappingIntervals.cpp) |
 
 > ✅ **Progress:** <span style="color: #00ff00;"><b>25 / 160 Days Completed</b></span>  
 > 🧗‍♂️ **Keep Going, You're Crushing It! 🔥💪**
