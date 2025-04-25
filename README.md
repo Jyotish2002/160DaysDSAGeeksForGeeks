@@ -54,8 +54,10 @@
 | 27    | Merge Without Extra Space                      | [Day27_MergeWithoutExtraSpace.cpp](Day27_MergeWithoutExtraSpace.cpp) |
 | 28    | Number Of Occurrence                           | [Day28_NumberOfOccurrence.cpp](Day28_NumberOfOccurrence.cpp) |
 | 29    | Sorted And Rotated Minimum                     | [Day29_SortedAndRotatedMinimum.cpp](Day29_SortedAndRotatedMinimum.cpp) |
+| 30    | Search Sorted Rotated Array                    | [Day30_SearchInSortedRotatedArray.cpp](Day30_SearchInSortedRotatedArray.cpp) |
 
-> ✅ **Progress:** <span style="color: #00ff00;"><b>29 / 160 Days Completed</b></span>  
+
+> ✅ **Progress:** <span style="color: #00ff00;"><b>30 / 160 Days Completed</b></span>  
 > 🧗‍♂️ **Keep Going, You're Crushing It! 🔥💪**
 
 ---
