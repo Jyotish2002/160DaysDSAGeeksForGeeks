@@ -55,6 +55,7 @@
 | 28    | Number Of Occurrence                           | [Day28_NumberOfOccurrence.cpp](Day28_NumberOfOccurrence.cpp) |
 | 29    | Sorted And Rotated Minimum                     | [Day29_SortedAndRotatedMinimum.cpp](Day29_SortedAndRotatedMinimum.cpp) |
 | 30    | Search Sorted Rotated Array                    | [Day30_SearchInSortedRotatedArray.cpp](Day30_SearchInSortedRotatedArray.cpp) |
+| 31    | Peak Element                                   | [Day31_PeakElement.cpp](Day31_PeakElement.cpp) |
 
 
 > ✅ **Progress:** <span style="color: #00ff00;"><b>30 / 160 Days Completed</b></span>  
