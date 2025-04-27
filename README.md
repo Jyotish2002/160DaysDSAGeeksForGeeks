@@ -56,9 +56,10 @@
 | 29    | Sorted And Rotated Minimum                     | [Day29_SortedAndRotatedMinimum.cpp](Day29_SortedAndRotatedMinimum.cpp) |
 | 30    | Search Sorted Rotated Array                    | [Day30_SearchInSortedRotatedArray.cpp](Day30_SearchInSortedRotatedArray.cpp) |
 | 31    | Peak Element                                   | [Day31_PeakElement.cpp](Day31_PeakElement.cpp) |
+| 32    | K-th Element of two arrays                     | [Day32_K-thElementOfTwoArrays.cpp](Day32_K-thElementOfTwoArrays.cpp) |
 
 
-> ✅ **Progress:** <span style="color: #00ff00;"><b>30 / 160 Days Completed</b></span>  
+> ✅ **Progress:** <span style="color: #00ff00;"><b>32 / 160 Days Completed</b></span>  
 > 🧗‍♂️ **Keep Going, You're Crushing It! 🔥💪**
 
 ---
