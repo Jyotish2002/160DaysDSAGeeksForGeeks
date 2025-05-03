@@ -59,13 +59,16 @@
 | 32    | K-th Element of two arrays                     | [Day32_K-thElementOfTwoArrays.cpp](Day32_K-thElementOfTwoArrays.cpp) |
 | 33    | Agressive Cows                                 | [Day33_AgrressiveCows.cpp](Day33_AgrressiveCows.cpp) |
 | 34    | Allocate Minimum Page                          | [Day34_AllocateMinimumPage.cpp](Day34_AllocateMinimumPage.cpp) |
-| 35    | Sprially Traversing A Matrix                   | [Day35_SpirallyTraversingAMatrix.cpp](Day35_SpirallyTraversingAMatrix.cpp) |
-| 36    | Rotate by 90 degree                            | [Day36_RotateBy90Degree.cpp](Day36_RotateBy90Degree.cpp) |
+| 35    | K-th Missing Positive Number in sorted Array   | [Day35_KthMissingPositiveNumberInSortedArray.cpp](Day35_KthMissingPositiveNumberInSortedArray.cpp) |
+| 36    | Spirally Traversing A Matrix                   | [Day36_SpirallyTraversingAMatrix.cpp](Day36_SpirallyTraversingAMatrix.cpp) |
+| 37    | Rotate By 90 Degree                            | [Day37_RotateBy90Degree.cpp](Day37_RotateBy90Degree.cpp) |
+| 38    | Search In Row-Column In Sorted Array           | [Day38_SearchInRowColumnSortedArray.cpp](Day38_SearchInRowColumnSortedArray.cpp) |
 
 
 
 
-> ✅ **Progress:** <span style="color: #00ff00;"><b>36 / 160 Days Completed</b></span>  
+
+> ✅ **Progress:** <span style="color: #00ff00;"><b>38 / 160 Days Completed</b></span>  
 > 🧗‍♂️ **Keep Going, You're Crushing It! 🔥💪**
 
 ---
