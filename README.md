@@ -63,12 +63,15 @@
 | 36    | Spirally Traversing A Matrix                   | [Day36_SpirallyTraversingAMatrix.cpp](Day36_SpirallyTraversingAMatrix.cpp) |
 | 37    | Rotate By 90 Degree                            | [Day37_RotateBy90Degree.cpp](Day37_RotateBy90Degree.cpp) |
 | 38    | Search In Row-Column In Sorted Array           | [Day38_SearchInRowColumnSortedArray.cpp](Day38_SearchInRowColumnSortedArray.cpp) |
+| 39    | Search In Row-Wise Sorted Matrix               | [Day39_SearchInRowWiseSortedMatrix.cpp](Day39_SearchInRowWiseSortedMatrix.cpp) |
+| 40    | Search In Sorted Matrix                        | [Day40_SearchInSortedmatrix.cpp](Day40_SearchInSortedmatrix.cpp) |
+| 41    | Set Matrix Zeroes                              | [Day41_SetMatrixZeroes.cpp](Day41_SetMatrixZeroes.cpp) |
 
 
 
 
 
-> ✅ **Progress:** <span style="color: #00ff00;"><b>38 / 160 Days Completed</b></span>  
+> ✅ **Progress:** <span style="color: #00ff00;"><b>41 / 160 Days Completed</b></span>  
 > 🧗‍♂️ **Keep Going, You're Crushing It! 🔥💪**
 
 ---
