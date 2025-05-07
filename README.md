@@ -66,12 +66,13 @@
 | 39    | Search In Row-Wise Sorted Matrix               | [Day39_SearchInRowWiseSortedMatrix.cpp](Day39_SearchInRowWiseSortedMatrix.cpp) |
 | 40    | Search In Sorted Matrix                        | [Day40_SearchInSortedmatrix.cpp](Day40_SearchInSortedmatrix.cpp) |
 | 41    | Set Matrix Zeroes                              | [Day41_SetMatrixZeroes.cpp](Day41_SetMatrixZeroes.cpp) |
+| 42    | Two Sum Pair With Given Sum                    | [Day42_TwoSumPairWithGivenSum.cpp](Day42_TwoSumPairWithGivenSum.cpp) |
 
 
 
 
 
-> ✅ **Progress:** <span style="color: #00ff00;"><b>41 / 160 Days Completed</b></span>  
+> ✅ **Progress:** <span style="color: #00ff00;"><b>42 / 160 Days Completed</b></span>  
 > 🧗‍♂️ **Keep Going, You're Crushing It! 🔥💪**
 
 ---
