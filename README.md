@@ -67,12 +67,14 @@
 | 40    | Search In Sorted Matrix                        | [Day40_SearchInSortedmatrix.cpp](Day40_SearchInSortedmatrix.cpp) |
 | 41    | Set Matrix Zeroes                              | [Day41_SetMatrixZeroes.cpp](Day41_SetMatrixZeroes.cpp) |
 | 42    | Two Sum Pair With Given Sum                    | [Day42_TwoSumPairWithGivenSum.cpp](Day42_TwoSumPairWithGivenSum.cpp) |
+| 43    | Count Pair With Given Sum                      | [Day43_CountPairWithGivenSum.cpp](Day43_CountPairWithGivenSum.cpp) |
+| 44    | Find All Triplet with Zero Sum                 | [Day44_FindAllTripletWithZeroSum.cpp](Day44_FindAllTripletWithZeroSum.cpp) |
 
 
 
 
 
-> ✅ **Progress:** <span style="color: #00ff00;"><b>42 / 160 Days Completed</b></span>  
+> ✅ **Progress:** <span style="color: #00ff00;"><b>44 / 160 Days Completed</b></span>  
 > 🧗‍♂️ **Keep Going, You're Crushing It! 🔥💪**
 
 ---
