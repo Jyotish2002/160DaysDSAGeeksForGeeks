@@ -69,12 +69,20 @@
 | 42    | Two Sum Pair With Given Sum                    | [Day42_TwoSumPairWithGivenSum.cpp](Day42_TwoSumPairWithGivenSum.cpp) |
 | 43    | Count Pair With Given Sum                      | [Day43_CountPairWithGivenSum.cpp](Day43_CountPairWithGivenSum.cpp) |
 | 44    | Find All Triplet with Zero Sum                 | [Day44_FindAllTripletWithZeroSum.cpp](Day44_FindAllTripletWithZeroSum.cpp) |
+| 45    | Intersection of two array with duplicate Elements | [Day45_IntersectionOfTwoArraysWithDuplicateElements.cpp](Day45_IntersectionOfTwoArraysWithDuplicateElements.cpp) |
+| 46    | Union of arrays with duplicate                 | [Day46_UnionOfArraysWithDuplicate.cpp](Day46_UnionOfArraysWithDuplicate.cpp) |
+| 47    | Longest Consecutive Subsequence                | [Day47_LongestConsecutiveSubsequence.cpp](Day47_LongestConsecutiveSubsequence.cpp) |
+| 48    | Print Anagrams Together                        | [Day48_PrintAnagramsTogether.cpp](Day48_PrintAnagramsTogether.cpp) |
+| 49    | Sub Arrays With Sum K                          | [Day49_SubarraysWithSumK.cpp](Day49_SubarraysWithSumK.cpp) |
+| 50    | SubArray XOR                                   | [Day50_subarrayXOR.cpp](Day50_subarrayXOR.cpp) |
 
 
 
 
 
-> ✅ **Progress:** <span style="color: #00ff00;"><b>44 / 160 Days Completed</b></span>  
+
+
+> ✅ **Progress:** <span style="color: #00ff00;"><b>50 / 160 Days Completed</b></span>  
 > 🧗‍♂️ **Keep Going, You're Crushing It! 🔥💪**
 
 ---
