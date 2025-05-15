@@ -84,7 +84,7 @@
 
 
 
-> ✅ **Progress:** <span style="color: #00ff00;"><b>50 / 160 Days Completed</b></span>  
+> ✅ **Progress:** <span style="color: #00ff00;"><b>52 / 160 Days Completed</b></span>  
 > 🧗‍♂️ **Keep Going, You're Crushing It! 🔥💪**
 
 ---
