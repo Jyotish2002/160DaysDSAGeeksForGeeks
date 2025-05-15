@@ -75,6 +75,8 @@
 | 48    | Print Anagrams Together                        | [Day48_PrintAnagramsTogether.cpp](Day48_PrintAnagramsTogether.cpp) |
 | 49    | Sub Arrays With Sum K                          | [Day49_SubarraysWithSumK.cpp](Day49_SubarraysWithSumK.cpp) |
 | 50    | SubArray XOR                                   | [Day50_subarrayXOR.cpp](Day50_subarrayXOR.cpp) |
+| 51    | Count All Triplets with given Sum in sorted array                                   | [Day51_CountAllTripletswithGivenSuminSortedArray.cpp](Day51_CountAllTripletswithGivenSuminSortedArray.cpp) |
+| 52    | Count Pair whose sum is less than target        | [Day52_CountPairsWhoseSumIsLessThanTarget.cpp](Day52_CountPairsWhoseSumIsLessThanTarget.cpp) |
 
 
 
