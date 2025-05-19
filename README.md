@@ -78,6 +78,7 @@
 | 51    | Count All Triplets with given Sum in sorted array                                   | [Day51_CountAllTripletswithGivenSuminSortedArray.cpp](Day51_CountAllTripletswithGivenSuminSortedArray.cpp) |
 | 52    | Count Pair whose sum is less than target        | [Day52_CountPairsWhoseSumIsLessThanTarget.cpp](Day52_CountPairsWhoseSumIsLessThanTarget.cpp) |
 | 53    | Sum Pair Closest To Target                      | [Day53_SumPairClosestToTarget.cpp](Day53_SumPairClosestToTarget.cpp) |
+| 54    | Pair With Given Sum in a Sorted Array           | [Day54_PairWithGivenSumInAsortedArray.cpp](Day54_PairWithGivenSumInAsortedArray.cpp) |
 
 
 
