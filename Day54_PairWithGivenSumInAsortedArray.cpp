@@ -1,7 +1,7 @@
 class Solution {
   public:
     int countPairs(vector<int> &arr, int target) {
-        // Complete the function
+       
         unordered_map<int,int> freq;
         int res=0;
         
