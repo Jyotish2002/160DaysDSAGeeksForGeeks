@@ -79,6 +79,7 @@
 | 52    | Count Pair whose sum is less than target        | [Day52_CountPairsWhoseSumIsLessThanTarget.cpp](Day52_CountPairsWhoseSumIsLessThanTarget.cpp) |
 | 53    | Sum Pair Closest To Target                      | [Day53_SumPairClosestToTarget.cpp](Day53_SumPairClosestToTarget.cpp) |
 | 54    | Pair With Given Sum in a Sorted Array           | [Day54_PairWithGivenSumInAsortedArray.cpp](Day54_PairWithGivenSumInAsortedArray.cpp) |
+| 54    | Count the number of possible triangles          | [Day55_CountTheNumberOfPossibleTriangles.cpp](Day55_CountTheNumberOfPossibleTriangles.cpp) |
 
 
 
