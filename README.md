@@ -79,15 +79,15 @@
 | 52    | Count Pair whose sum is less than target        | [Day52_CountPairsWhoseSumIsLessThanTarget.cpp](Day52_CountPairsWhoseSumIsLessThanTarget.cpp) |
 | 53    | Sum Pair Closest To Target                      | [Day53_SumPairClosestToTarget.cpp](Day53_SumPairClosestToTarget.cpp) |
 | 54    | Pair With Given Sum in a Sorted Array           | [Day54_PairWithGivenSumInAsortedArray.cpp](Day54_PairWithGivenSumInAsortedArray.cpp) |
-| 54    | Count the number of possible triangles          | [Day55_CountTheNumberOfPossibleTriangles.cpp](Day55_CountTheNumberOfPossibleTriangles.cpp) |
+| 55    | Count the number of possible triangles          | [Day55_CountTheNumberOfPossibleTriangles.cpp](Day55_CountTheNumberOfPossibleTriangles.cpp) |
+| 56    | Indexes of Subarray Sum          | [Day56_IndexesofSubarraySum.cpp](Day56_IndexesofSubarraySum.cpp) |
 
 
 
 
 
 
-
-> ✅ **Progress:** <span style="color: #00ff00;"><b>52 / 160 Days Completed</b></span>  
+> ✅ **Progress:** <span style="color: #00ff00;"><b>56 / 160 Days Completed</b></span>  
 > 🧗‍♂️ **Keep Going, You're Crushing It! 🔥💪**
 
 ---
