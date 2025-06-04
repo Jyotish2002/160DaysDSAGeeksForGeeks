@@ -80,8 +80,25 @@
 | 53    | Sum Pair Closest To Target                      | [Day53_SumPairClosestToTarget.cpp](Day53_SumPairClosestToTarget.cpp) |
 | 54    | Pair With Given Sum in a Sorted Array           | [Day54_PairWithGivenSumInAsortedArray.cpp](Day54_PairWithGivenSumInAsortedArray.cpp) |
 | 55    | Count the number of possible triangles          | [Day55_CountTheNumberOfPossibleTriangles.cpp](Day55_CountTheNumberOfPossibleTriangles.cpp) |
-| 56    | Indexes of Subarray Sum          | [Day56_IndexesofSubarraySum.cpp](Day56_IndexesofSubarraySum.cpp) |
-
+| 56   | Indexes of Subarray Sum                        | [Day56_IndexesofSubarraySum.cpp](Day56_IndexesofSubarraySum.cpp) |
+| 57   | Count Distinct Elements in Every Window        | [Day57_CountDistinctElementsinEveryWindow.cpp](Day57_CountDistinctElementsinEveryWindow.cpp) |
+| 58   | Longest Substring with Distinct Characters     | [Day58_LongestSubstringwithdistinctcharacters.cpp](Day58_LongestSubstringwithdistinctcharacters.cpp) |
+| 59   | Trapping Rain Water                            | [Day59_TrappingRainWater.cpp](Day59_TrappingRainWater.cpp) |
+| 60   | Container with Most Water                      | [Day60_ContainerwithMostWater.cpp](Day60_ContainerwithMostWater.cpp) |
+| 61   | Equilibrium Point                              | [Day61_EquilibriumPoint.cpp](Day61_EquilibriumPoint.cpp) |
+| 62   | Longest Subarray with Sum K                    | [Day62_LongestSubarraywithSum_K.cpp](Day62_LongestSubarraywithSum_K.cpp) |
+| 63   | Largest Subarray of 0's and 1's                | [Day63_LargestSubarrayof0'sAnd1;s.cpp](Day63_LargestSubarrayof0'sAnd1;s.cpp) |
+| 64   | Product Array Puzzle                           | [Day64_ProductArrayPuzzle.cpp](Day64_ProductArrayPuzzle.cpp) |
+| 65   | Reverse Linked List                            | [Day65_ReverseLinkedList.cpp](Day65_ReverseLinkedList.cpp) |
+| 66   | Rotate Linked List                             | [Day66_RotateLinkedList.cpp](Day66_RotateLinkedList.cpp) |
+| 67   | Merge Two Sorted Linked Lists                  | [Day67_MergeTwoSortedLinkedList.cpp](Day67_MergeTwoSortedLinkedList.cpp) |
+| 68   | Reverse Nodes in K-Group                       | [Day68_LinkedListGroupReverse.cpp](Day68_LinkedListGroupReverse.cpp) |
+| 69   | Add Numbers Represented by Linked Lists        | [Day69_AddNumberLinkedList.cpp](Day69_AddNumberLinkedList.cpp) |
+| 70   | Clone Linked List with Next and Random Pointer | [Day70_CloneListWithNextAndRandom.cpp](Day70_CloneListWithNextAndRandom.cpp) |
+| 71   | Detect Loop in Linked List                     | [Day71_DelectLoopInLinkedList.cpp](Day71_DelectLoopInLinkedList.cpp) |
+| 72   | Find the First Node of the Loop                | [Day72_Findthefirstnodeofloop.cpp](Day72_Findthefirstnodeofloop.cpp) |
+| 73   | Remove Loop in Linked List                     | [Day73_RemoveLoopInLinkedList.cpp](Day73_RemoveLoopInLinkedList.cpp) |
+| 74   | LRU Cache Implementation                       | [Day74_LRUCache.cpp](Day74_LRUCache.cpp) |
 
 
 
